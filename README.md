@@ -46,12 +46,6 @@
 - Vite for build tooling
 
 ## Getting Started
-
-### Prerequisites
-
-- Node.js 18.x or higher
-- npm 9.x or higher
-
 ### Installation
 
 1. Clone the repository:
@@ -104,13 +98,6 @@ The application follows a component-based architecture with the following key as
 - **Role-based Access**: Implements permission-based feature access
 - **Responsive Design**: Mobile-first approach using Tailwind CSS
 
-## Known Limitations
-
-1. Data persistence is limited to browser localStorage
-2. No real-time synchronization between multiple tabs/windows
-3. Calendar view limited to basic scheduling features
-4. Chart visualizations use basic implementation
-
 ## Technical Decisions
 
 1. **React Context over Redux**
@@ -134,3 +121,5 @@ The application follows a component-based architecture with the following key as
    - Modern development experience
 **WebsiteLink**
 https://shipment-managment-website.vercel.app/login
+**contact**
+ - MailId:reddyrk31@gmail.com
