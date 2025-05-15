@@ -1,7 +1,4 @@
-# ENTNT Ship Maintenance Dashboard
-
-A comprehensive ship maintenance management system built with React, featuring role-based access control, real-time notifications, and interactive maintenance scheduling.
-
+# ENTNT Ship Maintenance website
 ## Features
 
 - **User Authentication**
