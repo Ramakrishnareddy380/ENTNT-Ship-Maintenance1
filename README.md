@@ -95,7 +95,7 @@ src/
 ├── contexts/           # React Context providers
 ├── pages/              # Page components
 ├── utils/              # Utility functions
-└── types/              # TypeScript type definitions
+└── types/              # Javascript types
 ```
 
 ## Architecture
@@ -128,8 +128,7 @@ The application follows a component-based architecture with the following key as
    - Excellent responsive design support
    - Small bundle size with purge CSS
 
-3. **TypeScript**
-   - Type safety and better developer experience
+3. **JavaScript**
    - Enhanced code maintainability
    - Better IDE support and code documentation
 
