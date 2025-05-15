@@ -89,9 +89,9 @@ src/
 ```
 
 ## List of Known Issues or Limitations
-**Role Management**: Currently, role management is basic and may require enhancements for more complex user roles.
-**LocalStorage Limitations**: Data persistence is reliant on localStorage, which may not be suitable for larger datasets.
-**Responsive Design**: While the application is styled with Tailwind CSS, some components may require additional adjustments for better responsiveness on smaller devices.
+- **Role Management**: Currently, role management is basic and may require enhancements for more complex user roles.
+- **LocalStorage Limitations**: Data persistence is reliant on localStorage, which may not be suitable for larger datasets.
+- **Responsive Design**: While the application is styled with Tailwind CSS, some components may require additional adjustments for better responsiveness on smaller devices.
 
 ## Architecture
 
