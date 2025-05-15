@@ -76,10 +76,9 @@ A comprehensive ship maintenance management system built with React, featuring r
 4. Open [http://localhost:5173](http://localhost:5173) in your browser
 
 ### Demo Accounts
-
-- Admin: admin@entnt.in / admin123
-- Inspector: inspector@entnt.in / inspect123
-- Engineer: engineer@entnt.in / engine123
+Admin: admin@entnt.com / Admin@2024
+Inspector: inspector@entnt.com / Inspect@2024
+Engineer: engineer@entnt.com / Engineer@2024
 
 ## Project Structure
 
